@@ -46,6 +46,8 @@
             font-size 2rem
         #nome::after
             content " | "
+        #setor span
+            display inline-block
         .telefone
             display inline-block
     .logo-data
